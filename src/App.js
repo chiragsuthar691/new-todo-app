@@ -71,7 +71,7 @@ const MyTodoApp = () => {
   return (
     <div>
       <div>
-        <h1>My Todo App</h1>
+        <h1>My Todo App(Functional)</h1>
         <input
           type="text"
           placeholder="Enter your text here"
