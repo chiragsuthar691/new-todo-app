@@ -78,7 +78,7 @@ const MyTodoApp = () => {
           value={newToDo}
           onChange={handleChange}
         />
-        <button onClick={handleAddItem}>Add+</button>
+        <button onClick={handleAddItem}>Add</button>
       </div>
       <div>
         <button onClick={handleAddToList2}>{">"}</button>
